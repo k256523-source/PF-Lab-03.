@@ -1,1 +1,4 @@
-# PF-Lab-03.
+# Programming Fundamentals Lab
+
+**Name = Karan Khatri**   
+**Roll no = 25K-6523**
